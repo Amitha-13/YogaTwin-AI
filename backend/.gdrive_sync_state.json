@@ -1,0 +1,1134 @@
+{
+  "files": {
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/ANJALI_P_681/Corpse_Pose_SU-02/landmarks.json": {
+      "size": 650754,
+      "mtime": 1780309315.380323,
+      "sha256": "4b4042597d139db440d6f471bfaabef67dc3ea2bdcef93c1ff79431456cda3ef",
+      "drive_file_id": "1UByAQHe7nVQRNej121qhlj_yoGDf3eZI",
+      "rel_path": "2026-06-01_session/A_VideoOnly/ANJALI_P_681/Corpse_Pose_SU-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:01:52+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/ANJALI_P_681/Corpse_Pose_SU-02/metadata.json": {
+      "size": 731,
+      "mtime": 1780309315.397294,
+      "sha256": "159fd77a5b37a407301330f4d57558aa32c177d698e38512d90bb454d449cad3",
+      "drive_file_id": "192zvN8vVdjKfnNVVPBrNOx8ZLJ3Dr4ph",
+      "rel_path": "2026-06-01_session/A_VideoOnly/ANJALI_P_681/Corpse_Pose_SU-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:01:55+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/ANJALI_P_681/Corpse_Pose_SU-02/video.webm": {
+      "size": 667477,
+      "mtime": 1780309309.805235,
+      "sha256": "fd0746b83baafd048789f5a05a5fd7b6c23eedde8fb6eaf542f00e873d86c558",
+      "drive_file_id": "1fcxA2xBLmt2q4GvaUBpntRRO7EppNv24",
+      "rel_path": "2026-06-01_session/A_VideoOnly/ANJALI_P_681/Corpse_Pose_SU-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:01:58+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/ANJALI_P_681/Half_Wheel_Pose_STA-04-I/landmarks.json": {
+      "size": 418301,
+      "mtime": 1780309315.255684,
+      "sha256": "b63c46f688aa716cb2afc872da0fdf9463876bb68eb171b9680c7d0650dee2b6",
+      "drive_file_id": "1m3GF-ttaLoZe199FzJPZN_Y8xh7k2dEJ",
+      "rel_path": "2026-06-01_session/A_VideoOnly/ANJALI_P_681/Half_Wheel_Pose_STA-04-I/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:03+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/ANJALI_P_681/Half_Wheel_Pose_STA-04-I/metadata.json": {
+      "size": 758,
+      "mtime": 1780309315.271232,
+      "sha256": "f1ae725a2138efc513293574d45d4674223c0f9c1a13a649dafccf958e42510c",
+      "drive_file_id": "1P9XhRdbQams6paSssLb4pLU_cmzLAW-7",
+      "rel_path": "2026-06-01_session/A_VideoOnly/ANJALI_P_681/Half_Wheel_Pose_STA-04-I/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:06+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/ANJALI_P_681/Half_Wheel_Pose_STA-04-I/video.webm": {
+      "size": 383471,
+      "mtime": 1780309296.839729,
+      "sha256": "8c9c306a0881448d3b6fe34b57b90ce6b262a8a61d174339e8dfed48a56b0f5c",
+      "drive_file_id": "1qvtiInfkTmTRgfWnBBfXvrRuo0NrVcql",
+      "rel_path": "2026-06-01_session/A_VideoOnly/ANJALI_P_681/Half_Wheel_Pose_STA-04-I/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:09+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/ANJALI_P_681/metadata.json": {
+      "size": 1257,
+      "mtime": 1780309315.412325,
+      "sha256": "0a61f2aa3472acf891b84cec394768055a0c50ffc7bc5e561db62d66bd504634",
+      "drive_file_id": "1FvTQ9Njl8FDAuUPI75sQJopaoKHatVyf",
+      "rel_path": "2026-06-01_session/A_VideoOnly/ANJALI_P_681/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:12+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/CHASNHINI_222/Cobra_Pose_PR-02/landmarks.json": {
+      "size": 425111,
+      "mtime": 1780310415.896468,
+      "sha256": "610c0780f4fa29ab42819063f9a65961440968b960c732972e94b9e78599cabf",
+      "drive_file_id": "1IZRauVhfYUAm5NmsBctidhk4T3rpuKYZ",
+      "rel_path": "2026-06-01_session/A_VideoOnly/CHASNHINI_222/Cobra_Pose_PR-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:20+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/CHASNHINI_222/Cobra_Pose_PR-02/metadata.json": {
+      "size": 730,
+      "mtime": 1780310415.913458,
+      "sha256": "2058a4b85a99d0fcb2ab717094cbcccc9879204e15d977978e2688f36dc47739",
+      "drive_file_id": "19UtE68ajD-0-agUpE4JvgQL9W09rmfNX",
+      "rel_path": "2026-06-01_session/A_VideoOnly/CHASNHINI_222/Cobra_Pose_PR-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:23+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/CHASNHINI_222/Cobra_Pose_PR-02/video.webm": {
+      "size": 490746,
+      "mtime": 1780310408.34257,
+      "sha256": "63ce9c8c05d5c94dec0f972f1a72d25576f682687ce2a47bf2fd637def27f622",
+      "drive_file_id": "1opyjkBaTxGyW9feAI3_UxSLhNeQGWT9N",
+      "rel_path": "2026-06-01_session/A_VideoOnly/CHASNHINI_222/Cobra_Pose_PR-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:26+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/CHASNHINI_222/metadata.json": {
+      "size": 1255,
+      "mtime": 1780310416.048598,
+      "sha256": "710dd102bc55eae1868560230eef324c9e66c802c11a1db593413cbae0061adb",
+      "drive_file_id": "1Xvky2h3z2rGvbT3Wta9DDfd45Ud651pK",
+      "rel_path": "2026-06-01_session/A_VideoOnly/CHASNHINI_222/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:29+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/CHASNHINI_222/Mountain_Pose_STA-01/landmarks.json": {
+      "size": 568799,
+      "mtime": 1780310416.015452,
+      "sha256": "0ef50e5af5b69c20442917c3a409ae4c30ecacfbb8719aed0c16774d7435ad1f",
+      "drive_file_id": "1rYiXJ1Hp9cQta-ZD_0IFNw-FRcb_9nLU",
+      "rel_path": "2026-06-01_session/A_VideoOnly/CHASNHINI_222/Mountain_Pose_STA-01/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:34+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/CHASNHINI_222/Mountain_Pose_STA-01/metadata.json": {
+      "size": 733,
+      "mtime": 1780310416.032507,
+      "sha256": "84f28d95497a9035a93e5ecee72bbd940985d61e731b44b0e3cb0f95985f7ce3",
+      "drive_file_id": "1gWPv5h1yrxFq9MgqBxGzYd4yyTVtoPZu",
+      "rel_path": "2026-06-01_session/A_VideoOnly/CHASNHINI_222/Mountain_Pose_STA-01/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:36+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/CHASNHINI_222/Mountain_Pose_STA-01/video.webm": {
+      "size": 670463,
+      "mtime": 1780310398.774712,
+      "sha256": "e3084c74b4252f92f9d55b1d838a4fee0f13693ab0d43b2b8cdc78677c94e7ab",
+      "drive_file_id": "1jAHSE_91o3qRtlpaKw7Ppa4iilrO_etD",
+      "rel_path": "2026-06-01_session/A_VideoOnly/CHASNHINI_222/Mountain_Pose_STA-01/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:39+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVIKA_284/Crocodile_Pose_PR-01/landmarks.json": {
+      "size": 850576,
+      "mtime": 1780289022.476474,
+      "sha256": "85d5e3b7022339d840ec2e64003c8faf9eba2d41bbce546de22f549e036dc3ad",
+      "drive_file_id": "1SU3HIGpUiHkUnXOdZGW_KkRII48QvEYJ",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Crocodile_Pose_PR-01/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:44+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVIKA_284/Crocodile_Pose_PR-01/metadata.json": {
+      "size": 727,
+      "mtime": 1780289022.50246,
+      "sha256": "acc67dbf12bcd97f7d28c1d0cab9c7685594fdcf10dd1fb0cfdf5419b8937bc7",
+      "drive_file_id": "1Ez8u8e-FP-6-jWLWKM5dI7KGPIwB2Jlw",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Crocodile_Pose_PR-01/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:47+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVIKA_284/Crocodile_Pose_PR-01/video.webm": {
+      "size": 1332927,
+      "mtime": 1780288992.614201,
+      "sha256": "e504c8883a53b8bb20d74a54aa1b50471bd4f78cff45e34efde28ce794a8d953",
+      "drive_file_id": "1wJsRbcD1ILPejaQwiiiF6hg6GSMSl-ZH",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Crocodile_Pose_PR-01/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:50+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVIKA_284/Half_Wheel_Pose_STA-04-I/landmarks.json": {
+      "size": 1479400,
+      "mtime": 1780289022.822504,
+      "sha256": "b6e9158c4c8a45b0faa95961d4679e9adc130b924e75884ec2d260a576fbeaf3",
+      "drive_file_id": "1JA_vpqKbSo098SZcw_gnRZbFDiEYbmPG",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Half_Wheel_Pose_STA-04-I/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:54+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVIKA_284/Half_Wheel_Pose_STA-04-I/metadata.json": {
+      "size": 752,
+      "mtime": 1780289022.849078,
+      "sha256": "d9bcbf74bd77f1fecab23f8bf38467b5369f75f565cb509770125ac073a72afb",
+      "drive_file_id": "1GPh5zB6EhOmlb-nPBGEQYi6L7FSPPiJE",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Half_Wheel_Pose_STA-04-I/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:02:57+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVIKA_284/Half_Wheel_Pose_STA-04-I/video.webm": {
+      "size": 2181233,
+      "mtime": 1780289015.144755,
+      "sha256": "31dac6bb5ae29f989e6c5040c89d10feed4f4f39cf86e865ca47db8453499c60",
+      "drive_file_id": "1u0HzpKO2wZKalBnB6lp2L3D7zjSRySBk",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Half_Wheel_Pose_STA-04-I/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:01+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVIKA_284/metadata.json": {
+      "size": 1249,
+      "mtime": 1780289022.869496,
+      "sha256": "78ef77d4c0cb40141f59f20c275b6839a8cce5a520b79e8fa4a4af48a4e142e6",
+      "drive_file_id": "18MPcsk1Mmuk7hePBfFO6111d0EbCvc5P",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:05+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVLANA_P_339/Cobra_Pose_PR-02/landmarks.json": {
+      "size": 311040,
+      "mtime": 1780313446.223914,
+      "sha256": "1619b3a53a0f436949bca6b2d6c402113dbe5538c9594e03f7dd6a7a671b6f7f",
+      "drive_file_id": "1VWboBFiHJ7OvNL-2DzqcFfN3Je7W__DM",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVLANA_P_339/Cobra_Pose_PR-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:12+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVLANA_P_339/Cobra_Pose_PR-02/metadata.json": {
+      "size": 730,
+      "mtime": 1780313446.247893,
+      "sha256": "e0397661822c7541b2c2b0536aef770d73b00c61f6e349d5c2679a1db3777494",
+      "drive_file_id": "1ZprOw3LU1hiZiTXKFK_csufpZHxtcKpQ",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVLANA_P_339/Cobra_Pose_PR-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:15+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVLANA_P_339/Cobra_Pose_PR-02/video.webm": {
+      "size": 644483,
+      "mtime": 1780313411.614015,
+      "sha256": "3633af89f1d414e741e71660467a9c1e691a3ddb238bbb32cdb456dee27f7a4c",
+      "drive_file_id": "1uoyic9FHfiD1jRLzAl7dZf5UODj-OPvp",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVLANA_P_339/Cobra_Pose_PR-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:18+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVLANA_P_339/Corpse_Pose_SU-02/landmarks.json": {
+      "size": 549213,
+      "mtime": 1780313446.395564,
+      "sha256": "a21f46b7fe09326a193021c32154cdca1fd1986f73ca7252cdc263ec948b90a5",
+      "drive_file_id": "1wUXIpipU89VByF6eWUwhSGXn6CWhMtnT",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVLANA_P_339/Corpse_Pose_SU-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:23+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVLANA_P_339/Corpse_Pose_SU-02/metadata.json": {
+      "size": 728,
+      "mtime": 1780313446.4214,
+      "sha256": "9096e91d8d253d281d00f3b36805fde452f7f89e8f572a07d69e33575c66321f",
+      "drive_file_id": "1x5WZ9hNX3JNWs0y5pAG57ZrLtvrAnpDa",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVLANA_P_339/Corpse_Pose_SU-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:26+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVLANA_P_339/Corpse_Pose_SU-02/video.webm": {
+      "size": 1017841,
+      "mtime": 1780313428.752182,
+      "sha256": "e4262614838578b49dc74c1f32ae8fac214946c93546aaca1e55b322d6ee8f23",
+      "drive_file_id": "1QBueAF96cSFPL_EKT7PMvaWfYJfuUCfS",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVLANA_P_339/Corpse_Pose_SU-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:29+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/DEVLANA_P_339/metadata.json": {
+      "size": 1251,
+      "mtime": 1780313446.444961,
+      "sha256": "1951f65eed380e267ae7eb214eb55088f65d8331139300cb33b8d24f099d5229",
+      "drive_file_id": "1GR8LYDsPf2CafmPEUhJZ5BiVRE4Um7xT",
+      "rel_path": "2026-06-01_session/A_VideoOnly/DEVLANA_P_339/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:33+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/HARI_004/Half_Camel_Pose_SIA-01/landmarks.json": {
+      "size": 292890,
+      "mtime": 1780313550.612614,
+      "sha256": "39de6c2c38ebcf3ff7f299e76b41b5a4d0120fe1d60956e47c9a3470ae2a2883",
+      "drive_file_id": "1g3gOXVns5vO7pALKxELdmJZ_VZQoIdMO",
+      "rel_path": "2026-06-01_session/A_VideoOnly/HARI_004/Half_Camel_Pose_SIA-01/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:39+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/HARI_004/Half_Camel_Pose_SIA-01/metadata.json": {
+      "size": 737,
+      "mtime": 1780313550.637197,
+      "sha256": "a1285e0ecffa9addf8587c131a65fb95f8e6ea65ded40c87933da4694c959557",
+      "drive_file_id": "1MX3_MaCqMcWZrlJwtON4qKl6uxNh_JlZ",
+      "rel_path": "2026-06-01_session/A_VideoOnly/HARI_004/Half_Camel_Pose_SIA-01/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:42+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/HARI_004/Half_Camel_Pose_SIA-01/video.webm": {
+      "size": 578068,
+      "mtime": 1780313523.077825,
+      "sha256": "6a01157f21713ef6cc5c4ad1352f40cbad0d08d54eec388965226d4941b07b0a",
+      "drive_file_id": "1XHxNR8XzlUD1msKpbnoHiizD66P78s6Y",
+      "rel_path": "2026-06-01_session/A_VideoOnly/HARI_004/Half_Camel_Pose_SIA-01/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:45+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/HARI_004/metadata.json": {
+      "size": 1249,
+      "mtime": 1780313551.071166,
+      "sha256": "040fdd12eb608a9e11447d08d8f98a7d2c2594e0089ebe1261701ab4e90ab3d4",
+      "drive_file_id": "1ARjo6dR-6TlUydirexkXwYVkIgttHrLA",
+      "rel_path": "2026-06-01_session/A_VideoOnly/HARI_004/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:48+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/HARI_004/Twisted_Pose_SIA-02/landmarks.json": {
+      "size": 1664171,
+      "mtime": 1780313551.0138,
+      "sha256": "8b37a2d16b5a79fa3f948fe02f9a17e247e0524369a7addd19faa5296fdb1447",
+      "drive_file_id": "1YoHfiVZkwtLccEJzg4q3tHCek1F2vXus",
+      "rel_path": "2026-06-01_session/A_VideoOnly/HARI_004/Twisted_Pose_SIA-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:53+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/HARI_004/Twisted_Pose_SIA-02/metadata.json": {
+      "size": 730,
+      "mtime": 1780313551.049141,
+      "sha256": "16aa0d3278e95a9e0af67b357704d0c3060f480e5e76469e0f93bb1c16c20f10",
+      "drive_file_id": "14S3gjUAFbx199hGjbtAqxf0FZgCUMPjg",
+      "rel_path": "2026-06-01_session/A_VideoOnly/HARI_004/Twisted_Pose_SIA-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:55+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/HARI_004/Twisted_Pose_SIA-02/video.webm": {
+      "size": 2668968,
+      "mtime": 1780313544.779859,
+      "sha256": "ad5d33990b298441cae0db6f41eef070c976834eea04bdccf423d35a47fd4d64",
+      "drive_file_id": "1PyEAeWQCLFbsVSmG59eHWGM0WkPqpkST",
+      "rel_path": "2026-06-01_session/A_VideoOnly/HARI_004/Twisted_Pose_SIA-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:03:59+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/Half_Waist_Wheel_Pose_STA-04-II/landmarks.json": {
+      "size": 1840537,
+      "mtime": 1780308744.92514,
+      "sha256": "e71562f84fac758f5359c309b94854bae79bd7c71a23b4e1f055c5b38dd789f8",
+      "drive_file_id": "1CPCrw3kaZIQUoRbklKByO2FkzoNFbnPg",
+      "rel_path": "2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/Half_Waist_Wheel_Pose_STA-04-II/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:06+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/Half_Waist_Wheel_Pose_STA-04-II/metadata.json": {
+      "size": 781,
+      "mtime": 1780308744.948138,
+      "sha256": "4cb2cea47fae6756f94ed588821bf2ede8b2aae4e6918acc15f0f3452cdf4e0b",
+      "drive_file_id": "161xGOIuQG693hyUDQth8XmwsSA_Wry0t",
+      "rel_path": "2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/Half_Waist_Wheel_Pose_STA-04-II/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:09+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/Half_Waist_Wheel_Pose_STA-04-II/video.webm": {
+      "size": 2585395,
+      "mtime": 1780308669.433128,
+      "sha256": "199918413809643b3ddc67a04a98e6a3089a61812fb0a96e7fa9c2dabe5050ae",
+      "drive_file_id": "1ibSTx4p38Kx6xZXClVbJ6l9ZyHEnuSOp",
+      "rel_path": "2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/Half_Waist_Wheel_Pose_STA-04-II/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:13+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/metadata.json": {
+      "size": 1271,
+      "mtime": 1780308744.962685,
+      "sha256": "02e98dd66b6d6d653b0220063851e04f50a2d0b7e33b4d82c400710432e9f7df",
+      "drive_file_id": "12fT2u_lpZVn7j1ObnFNm5yLsG4DkJKcL",
+      "rel_path": "2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:16+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/Twisted_Pose_SIA-02/landmarks.json": {
+      "size": 5531388,
+      "mtime": 1780308744.633888,
+      "sha256": "564e548aa4a3794dd14fce6756e51711b94df2b60cecda49a8db7c15fca8bfbf",
+      "drive_file_id": "1x2hTW9J4Jsgo0-I_LreDpaxirXlIDSsQ",
+      "rel_path": "2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/Twisted_Pose_SIA-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:23+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/Twisted_Pose_SIA-02/metadata.json": {
+      "size": 735,
+      "mtime": 1780308744.661511,
+      "sha256": "1ef50696ae5f6f390c84f49ea3fcfb296b9a58c9718cbba5c21c25b6b1774531",
+      "drive_file_id": "17XPlU7uHF-stD2v9DHMGKA1ms1ebvtck",
+      "rel_path": "2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/Twisted_Pose_SIA-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:26+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/Twisted_Pose_SIA-02/video.webm": {
+      "size": 3073655,
+      "mtime": 1780308734.257976,
+      "sha256": "9d9ef34fc3f1639b034830fb81e226e53564e9fc2ad6da2ca7903ff663985b8b",
+      "drive_file_id": "1N3cH3fpkPTVGTFDDlvujtsXR-J_dTeJX",
+      "rel_path": "2026-06-01_session/A_VideoOnly/KRISHNAN_P_482/Twisted_Pose_SIA-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:31+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/MURUGAN_504/metadata.json": {
+      "size": 1217,
+      "mtime": 1780289418.932568,
+      "sha256": "da6519e3ef6228d1fefae7cf2f238db8401843abba9d33c7d6efec7e080fcbc4",
+      "drive_file_id": "1HmZevyaZB9hKRAuMxBr0PhJU-pYc1OuK",
+      "rel_path": "2026-06-01_session/A_VideoOnly/MURUGAN_504/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:34+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/MURUGAN_504/Twisted_Pose_SIA-02/landmarks.json": {
+      "size": 323688,
+      "mtime": 1780289418.887049,
+      "sha256": "484aba712334638e36cefcf8ce538eaabf8eb302a2759f765c3542b015154c12",
+      "drive_file_id": "1bCtkktUYwhDiLJuHvqPeau2QYq7ej_UC",
+      "rel_path": "2026-06-01_session/A_VideoOnly/MURUGAN_504/Twisted_Pose_SIA-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:38+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/MURUGAN_504/Twisted_Pose_SIA-02/metadata.json": {
+      "size": 727,
+      "mtime": 1780289418.911038,
+      "sha256": "86bdf90807c3950a31844ec03e79104d10a9338fab7f860b09b4fabd413b28f6",
+      "drive_file_id": "1JWztsxuMw8bX4mtT-R6bH6GXug9s0QlT",
+      "rel_path": "2026-06-01_session/A_VideoOnly/MURUGAN_504/Twisted_Pose_SIA-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:40+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/MURUGAN_504/Twisted_Pose_SIA-02/video.webm": {
+      "size": 594683,
+      "mtime": 1780289383.362023,
+      "sha256": "1fb1d25069d13184811c7b11331986dc659129d204a7e497e96b6b0b2a87fcdf",
+      "drive_file_id": "1g11EVEREoVe_GI-75wGHpnZyUhpYdQJh",
+      "rel_path": "2026-06-01_session/A_VideoOnly/MURUGAN_504/Twisted_Pose_SIA-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:44+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/TEST_351/Half_Wheel_Pose_STA-04-I/landmarks.json": {
+      "size": 305909,
+      "mtime": 1780309784.018343,
+      "sha256": "1ac04ad8959a9113f329f231ba347ed6774cecbc3f11c2d647d2535369898140",
+      "drive_file_id": "1_GML6P1aR1UfEz0VQexuog5nO0AA1Jv9",
+      "rel_path": "2026-06-01_session/A_VideoOnly/TEST_351/Half_Wheel_Pose_STA-04-I/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:50+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/TEST_351/Half_Wheel_Pose_STA-04-I/metadata.json": {
+      "size": 751,
+      "mtime": 1780309784.03385,
+      "sha256": "92e19e84c85e06e00abf2259673841c6b6865373e175a9b438b7f5d1e3e2c78b",
+      "drive_file_id": "1X_rzA5yu8y7STWGB2498U4HkMJzKxiWg",
+      "rel_path": "2026-06-01_session/A_VideoOnly/TEST_351/Half_Wheel_Pose_STA-04-I/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:53+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/TEST_351/Half_Wheel_Pose_STA-04-I/video.webm": {
+      "size": 271518,
+      "mtime": 1780309754.699799,
+      "sha256": "ee6d5f0dea3638d9f225d9e9e3a7ce43218e23857b629a3091b8cb6276e80081",
+      "drive_file_id": "1dkhKKJASERgQU11K0B8HOKCCn4hkJgG_",
+      "rel_path": "2026-06-01_session/A_VideoOnly/TEST_351/Half_Wheel_Pose_STA-04-I/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:04:57+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/TEST_351/metadata.json": {
+      "size": 1224,
+      "mtime": 1780309784.050865,
+      "sha256": "901109cb79373461bbcb10760ce4ffdc8ac7b5080a974f7c1e9d378cb78d9a3b",
+      "drive_file_id": "17tNLWCzvtu7rZgyqehNTBaonY_wpNBHt",
+      "rel_path": "2026-06-01_session/A_VideoOnly/TEST_351/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:05:00+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Corpse_Pose_SU-02/landmarks.json": {
+      "size": 1935199,
+      "mtime": 1780323542.980081,
+      "sha256": "0481b9634c4b457e65d0f5e18f1143198cda379b67813ec6054394de0005b6a5",
+      "drive_file_id": "1kGGPOAiUVHbL1L04VNb7pfLkX8TFXdC6",
+      "rel_path": "2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Corpse_Pose_SU-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:19:11+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Corpse_Pose_SU-02/metadata.json": {
+      "size": 743,
+      "mtime": 1780323543.013452,
+      "sha256": "932688229c40e8aa1f4114d86494060dcd310f8f98e7be68719192c8663047b8",
+      "drive_file_id": "1PfkEvDFnEBEkZWVO5Gjte8myHOsdtqXV",
+      "rel_path": "2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Corpse_Pose_SU-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:19:14+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Corpse_Pose_SU-02/video.webm": {
+      "size": 3016109,
+      "mtime": 1780323517.784405,
+      "sha256": "b87aeab748108ead3679fc4ee6f70b40443a62f12291e0c32fb1555de6531268",
+      "drive_file_id": "1XvzVH5Sy6PCvc6PlRQPl1ygQHKrRTlum",
+      "rel_path": "2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Corpse_Pose_SU-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:19:18+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Hand-to-Foot_Pose_STA-03/landmarks.json": {
+      "size": 556232,
+      "mtime": 1780323542.503771,
+      "sha256": "d9406119ac4a52631087254860192da8072033d7c2c7a986aff78434e42ed989",
+      "drive_file_id": "1Ezb5BK7Yfmx-BwXlvlqlsSq9y1HWJkXD",
+      "rel_path": "2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Hand-to-Foot_Pose_STA-03/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:19:24+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Hand-to-Foot_Pose_STA-03/metadata.json": {
+      "size": 755,
+      "mtime": 1780323542.534305,
+      "sha256": "65ecef0919ceb981ad41669e6fcdfea2115b66c9fce0c64b92ea799f1222c8bd",
+      "drive_file_id": "15KV0Mhvbzl8qof9Q2qc67n8lRvUB3Wct",
+      "rel_path": "2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Hand-to-Foot_Pose_STA-03/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:19:26+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Hand-to-Foot_Pose_STA-03/video.webm": {
+      "size": 956954,
+      "mtime": 1780323491.185902,
+      "sha256": "c61f53f50719ad4837d09155c0b65fd035561d2eab329d3d06df42ee9ef987b9",
+      "drive_file_id": "1C1I_nTqElRtN_UEVG28TMqsrgMDLu5h8",
+      "rel_path": "2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Hand-to-Foot_Pose_STA-03/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:19:30+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/metadata.json": {
+      "size": 1306,
+      "mtime": 1780323543.034448,
+      "sha256": "e827378ce8f7855c89d1392978d0c1ef315d3298ce8daf2910d031a5a8fb94f3",
+      "drive_file_id": "18LN2cqI2gy3gndGswnhFOaKFJ5A0WxtM",
+      "rel_path": "2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:19:33+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Mountain_Pose_STA-01/landmarks.json": {
+      "size": 622204,
+      "mtime": 1780323542.317045,
+      "sha256": "681afafa5884432ff29bdf0cb37284aa8d67363970a8384eb70a4a39b06dc1e6",
+      "drive_file_id": "11J9iIRjeLYTKWvc1Dx3r4aWNAoGjlH3-",
+      "rel_path": "2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Mountain_Pose_STA-01/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:19:38+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Mountain_Pose_STA-01/metadata.json": {
+      "size": 747,
+      "mtime": 1780323542.349486,
+      "sha256": "14ce2ecdff2d0a38c67575a5c8c81f94cbe95bb481f93d10fe24c1447b0caead",
+      "drive_file_id": "1bwj3ucxzzA62-qYJDKARGnjuJMzY0X1K",
+      "rel_path": "2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Mountain_Pose_STA-01/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:19:41+00:00"
+    },
+    "D:\\YogaDataset|2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Mountain_Pose_STA-01/video.webm": {
+      "size": 1112687,
+      "mtime": 1780323474.801436,
+      "sha256": "654e5a5c6cf93c12c35371de01c42b97b0f5fc3ac476fb6a5ad34df3a2d1decb",
+      "drive_file_id": "1Mimad2klhT7pYXBStsslJRgXq9gTGAba",
+      "rel_path": "2026-06-01_session/A_VideoOnly/AMITHA_SHAJI_K_884/Mountain_Pose_STA-01/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-01T14:19:44+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/AMITHA_SHAJI_K_111/Cobra_Pose_PR-02/landmarks.json": {
+      "size": 833,
+      "mtime": 1781003533.892041,
+      "sha256": "f01d6f9c33f768ed13d89c93677ec728d10dbe66b4aaa1f408ed58924966f0bd",
+      "drive_file_id": "1oylaFHVGfIz15EI7mV5AQpumdcgBgeWH",
+      "rel_path": "2026-06-09_session/A_VideoOnly/AMITHA_SHAJI_K_111/Cobra_Pose_PR-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:02:03+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/AMITHA_SHAJI_K_111/Cobra_Pose_PR-02/metadata.json": {
+      "size": 739,
+      "mtime": 1781003533.909572,
+      "sha256": "74be9ce4bb9494c2d7de5e17924ff8f0e57b4ab483bf82cd623cbc1d15ebecc4",
+      "drive_file_id": "1HIyK8hQ0ou5RJMvG6C2iSvO34CA7bSa2",
+      "rel_path": "2026-06-09_session/A_VideoOnly/AMITHA_SHAJI_K_111/Cobra_Pose_PR-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:02:06+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/AMITHA_SHAJI_K_111/Cobra_Pose_PR-02/video.webm": {
+      "size": 821928,
+      "mtime": 1781003523.003015,
+      "sha256": "b35a9b6130890b6c53a49b04832e75e8da889b7fe45be58bb5263e004c15f91a",
+      "drive_file_id": "1LQHifpl_-ZIzpi5vBoiGNI_vLCq_5YqY",
+      "rel_path": "2026-06-09_session/A_VideoOnly/AMITHA_SHAJI_K_111/Cobra_Pose_PR-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:02:11+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/AMITHA_SHAJI_K_111/metadata.json": {
+      "size": 1270,
+      "mtime": 1781003533.924277,
+      "sha256": "92661e96268a7180dddb4065a198ed03bc96d9d90829bd1194def5c1ca1c1b95",
+      "drive_file_id": "1vYPJZosuMclaex38Mib5e-pD2m7-C8eJ",
+      "rel_path": "2026-06-09_session/A_VideoOnly/AMITHA_SHAJI_K_111/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:02:14+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/ANJALI_997/Half_Waist_Wheel_Pose_STA-04-II/landmarks.json": {
+      "size": 833,
+      "mtime": 1781003925.804167,
+      "sha256": "f01d6f9c33f768ed13d89c93677ec728d10dbe66b4aaa1f408ed58924966f0bd",
+      "drive_file_id": "13LQswbqslU7YbELj0uIfOcyG9zEF1PeQ",
+      "rel_path": "2026-06-09_session/A_VideoOnly/ANJALI_997/Half_Waist_Wheel_Pose_STA-04-II/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:02:18+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/ANJALI_997/Half_Waist_Wheel_Pose_STA-04-II/metadata.json": {
+      "size": 779,
+      "mtime": 1781003925.820745,
+      "sha256": "a10e13fbf9d744ed0c278f542c514f67583e6298c9a5ecc1ade938627e943de9",
+      "drive_file_id": "1saVVD0X4MW30mpwOxu1dYlgDWo9MG7Mp",
+      "rel_path": "2026-06-09_session/A_VideoOnly/ANJALI_997/Half_Waist_Wheel_Pose_STA-04-II/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:02:21+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/ANJALI_997/Half_Waist_Wheel_Pose_STA-04-II/video.webm": {
+      "size": 897878,
+      "mtime": 1781003856.637595,
+      "sha256": "c30908f81eaa8dd95be2aa93a3fe7b152b80f17b546589e3df72c978cff1b8f6",
+      "drive_file_id": "16nwCKYOkNIWsnPKFOmeAQ9yMCqoOVPcq",
+      "rel_path": "2026-06-09_session/A_VideoOnly/ANJALI_997/Half_Waist_Wheel_Pose_STA-04-II/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:02:25+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/ANJALI_997/metadata.json": {
+      "size": 1272,
+      "mtime": 1781003925.835001,
+      "sha256": "63919ef29298a6f7657a5ecb0ca9da8e7a1f423bcb119fe7dfc7d0c60189b35f",
+      "drive_file_id": "1tMAS8yLLtKfQ4Jo2CgemATYmhqKHoPIg",
+      "rel_path": "2026-06-09_session/A_VideoOnly/ANJALI_997/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:02:29+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/ANJALI_997/Mountain_Pose_STA-01/landmarks.json": {
+      "size": 833,
+      "mtime": 1781003925.771589,
+      "sha256": "f01d6f9c33f768ed13d89c93677ec728d10dbe66b4aaa1f408ed58924966f0bd",
+      "drive_file_id": "1sCP5qx8ed7Kg9QgdM5e8VX15QIDTmCYR",
+      "rel_path": "2026-06-09_session/A_VideoOnly/ANJALI_997/Mountain_Pose_STA-01/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:02:33+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/ANJALI_997/Mountain_Pose_STA-01/metadata.json": {
+      "size": 734,
+      "mtime": 1781003925.78708,
+      "sha256": "c14e12230c073e7ade2eca836db08cd976b11776e85fd4f7944d12be1444b856",
+      "drive_file_id": "1H1UTTSf4OhF1afUJ_o56nYLEKPl9kT1M",
+      "rel_path": "2026-06-09_session/A_VideoOnly/ANJALI_997/Mountain_Pose_STA-01/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:02:37+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/ANJALI_997/Mountain_Pose_STA-01/video.webm": {
+      "size": 828266,
+      "mtime": 1781003873.218429,
+      "sha256": "66838f436f09892cb7bd0add70b083011afdf05033d1fc543a543f1055c10f0f",
+      "drive_file_id": "1QOIm_YSd3dhNSJm1IFQZSCQQJ7JuTK9b",
+      "rel_path": "2026-06-09_session/A_VideoOnly/ANJALI_997/Mountain_Pose_STA-01/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:02:42+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/CHASNHINI_581/Half_Waist_Wheel_Pose_STA-04-II/landmarks.json": {
+      "size": 3441364,
+      "mtime": 1781005180.671389,
+      "sha256": "7c27cb31726edab736232bd346e876b70d9fc9ad9a1208292f7b7cf645d44c00",
+      "drive_file_id": "15f2e8sIB4YDm0J8K-AFFpxnIYHhLrms1",
+      "rel_path": "2026-06-09_session/A_VideoOnly/CHASNHINI_581/Half_Waist_Wheel_Pose_STA-04-II/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:02:57+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/CHASNHINI_581/Half_Waist_Wheel_Pose_STA-04-II/metadata.json": {
+      "size": 791,
+      "mtime": 1781005180.693421,
+      "sha256": "6126ce6ad8b8532cfee470ab583a0430ef50498dad1e904b4c43ce6eecb61ddc",
+      "drive_file_id": "1m4qGQ2cMz-AdCXYJ-EMXwgAK_uKZqi0y",
+      "rel_path": "2026-06-09_session/A_VideoOnly/CHASNHINI_581/Half_Waist_Wheel_Pose_STA-04-II/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:03:01+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/CHASNHINI_581/Half_Waist_Wheel_Pose_STA-04-II/video.webm": {
+      "size": 1830565,
+      "mtime": 1781005076.789417,
+      "sha256": "8535c56632aec63c6ca69ebc35291a9dd0a165db690af6077340425d81a672bc",
+      "drive_file_id": "1EvpmFwaysvMOvCWhN0dG2yqypQjA_s7K",
+      "rel_path": "2026-06-09_session/A_VideoOnly/CHASNHINI_581/Half_Waist_Wheel_Pose_STA-04-II/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:03:09+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/CHASNHINI_581/metadata.json": {
+      "size": 1279,
+      "mtime": 1781005180.710528,
+      "sha256": "a25402678302947cb10e0295d41ddd9b758df76da5eb426cc2539aa23129ab4f",
+      "drive_file_id": "1ua4nFgzXpBA7zeiGZorlk__EoJFk8a_J",
+      "rel_path": "2026-06-09_session/A_VideoOnly/CHASNHINI_581/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:03:13+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/CHASNHINI_581/Mountain_Pose_STA-01/landmarks.json": {
+      "size": 1979795,
+      "mtime": 1781005180.17246,
+      "sha256": "21fc86bf0a289db5520a17e5a50f22a287401ecea2520d3ead0a3e581533beb0",
+      "drive_file_id": "1zc7olybB3ADSBIlzs2vliPzl7RvKGw8t",
+      "rel_path": "2026-06-09_session/A_VideoOnly/CHASNHINI_581/Mountain_Pose_STA-01/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:03:23+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/CHASNHINI_581/Mountain_Pose_STA-01/metadata.json": {
+      "size": 746,
+      "mtime": 1781005180.191576,
+      "sha256": "e820eea5d788ec7f6ccce27000e48122b74343b49ff6f5298c0f8552a155dc19",
+      "drive_file_id": "1TsIg8F5iqxN_nQWnpE8SVV1uCH_5y4TR",
+      "rel_path": "2026-06-09_session/A_VideoOnly/CHASNHINI_581/Mountain_Pose_STA-01/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:03:26+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/CHASNHINI_581/Mountain_Pose_STA-01/video.webm": {
+      "size": 1166685,
+      "mtime": 1781005098.68676,
+      "sha256": "77c16f4cefb853f5ed45a93bc769837b1849de4223f2539d5736796004f39f66",
+      "drive_file_id": "1Q0IjNOpiKatW4iYSJ6S907pWm6t4PPH5",
+      "rel_path": "2026-06-09_session/A_VideoOnly/CHASNHINI_581/Mountain_Pose_STA-01/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:03:33+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/PREETHI_437/Hand-to-Foot_Pose_STA-03/landmarks.json": {
+      "size": 347225,
+      "mtime": 1781004615.521196,
+      "sha256": "d96897249000f2542e55b4dd0be594564c574594285d3f50a1c285c94aaa66e0",
+      "drive_file_id": "1xxB7JRRigZDM8Hp1v_D4aTkrTQFpABB1",
+      "rel_path": "2026-06-09_session/A_VideoOnly/PREETHI_437/Hand-to-Foot_Pose_STA-03/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:03:38+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/PREETHI_437/Hand-to-Foot_Pose_STA-03/metadata.json": {
+      "size": 746,
+      "mtime": 1781004615.537944,
+      "sha256": "443a6bb62b2936a9e186fec5a2ea26ee589559342e6236a848dd8849ac2e41d3",
+      "drive_file_id": "1xFO36cHo8n7oVb17J77ktijBIMo2pxsc",
+      "rel_path": "2026-06-09_session/A_VideoOnly/PREETHI_437/Hand-to-Foot_Pose_STA-03/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:03:41+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/PREETHI_437/Hand-to-Foot_Pose_STA-03/video.webm": {
+      "size": 432750,
+      "mtime": 1781004605.805825,
+      "sha256": "59fec44bac5f6cdd7a5213538636178a1139e248ee2c3c73c383d8295c1dbda3",
+      "drive_file_id": "1X4F2DKeF9HLzQEANhA-N0EOfZt_ofKHD",
+      "rel_path": "2026-06-09_session/A_VideoOnly/PREETHI_437/Hand-to-Foot_Pose_STA-03/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:03:45+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/PREETHI_437/metadata.json": {
+      "size": 1238,
+      "mtime": 1781004615.554734,
+      "sha256": "121967b1be2a22446b1c750a4dbdff6fcccdec05e60235be9eb10fb478c05e93",
+      "drive_file_id": "1kxPl8_oeT0KIQM1yAHycm0lnuQKl8-Pw",
+      "rel_path": "2026-06-09_session/A_VideoOnly/PREETHI_437/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:03:48+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_835/Cobra_Pose_PR-02/landmarks.json": {
+      "size": 616088,
+      "mtime": 1781007139.307363,
+      "sha256": "f5b3647aa1be63cca58a394f65b7cb6361ac01a7ee69b2d6ebb14faafdfa512b",
+      "drive_file_id": "1w9UhxrJnukfYPBazNqpIsRtvG0J0OkHV",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_835/Cobra_Pose_PR-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:16:05+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_835/Cobra_Pose_PR-02/metadata.json": {
+      "size": 732,
+      "mtime": 1781007139.327144,
+      "sha256": "dd159eb9b441464000836e7bd7dfdf7f439451d07bfe59b90ff85ab722f0c42c",
+      "drive_file_id": "1w33H4DNZBADpLpxyf9-NieJt1IqXNb4B",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_835/Cobra_Pose_PR-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:16:08+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_835/Cobra_Pose_PR-02/video.webm": {
+      "size": 1693957,
+      "mtime": 1781007092.464024,
+      "sha256": "b38d563851406e26f78e3f660819874a5b5343997c7b80401f305d99d2591506",
+      "drive_file_id": "1RSBa2HO_viaiqfpoJlBdZaDY65mCuHwK",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_835/Cobra_Pose_PR-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:16:15+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_835/Half_Waist_Wheel_Pose_STA-04-II/landmarks.json": {
+      "size": 2214525,
+      "mtime": 1781007139.760192,
+      "sha256": "1376da1c2b11c95319b84d3fbe00eef1fcb40d5edeb4e8a2cc0b62d238ed1e2b",
+      "drive_file_id": "1puoGYlKss6rjVrA2jWFUsKCJuspysekM",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_835/Half_Waist_Wheel_Pose_STA-04-II/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:16:23+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_835/Half_Waist_Wheel_Pose_STA-04-II/metadata.json": {
+      "size": 781,
+      "mtime": 1781007139.780721,
+      "sha256": "92be9b2d0a9f444a2d51b72923c2eb2ffe881611aa0e6249902febf974f4eb1e",
+      "drive_file_id": "1WceQHLucYaiQKaX9e5cOCxo6QMkJhqqW",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_835/Half_Waist_Wheel_Pose_STA-04-II/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:16:26+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_835/Half_Waist_Wheel_Pose_STA-04-II/video.webm": {
+      "size": 4026126,
+      "mtime": 1781007114.220559,
+      "sha256": "9e947622f319ad840e617fa4e8c22bda5f66ceb0442a1651461513e25acabf50",
+      "drive_file_id": "1ZJO1pPO1ptstGaK0AfNoLQiCfWC86O2M",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_835/Half_Waist_Wheel_Pose_STA-04-II/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:16:37+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_835/Half_Wheel_Pose_STA-04-I/landmarks.json": {
+      "size": 664476,
+      "mtime": 1781007139.437483,
+      "sha256": "3e2e57669a530e14049b1e9aafabf44c5358ecc1f81ebc113cbe1d92db636aaa",
+      "drive_file_id": "1VHvWX4wwBAaEejNdRLxP1KPK-QORg5xk",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_835/Half_Wheel_Pose_STA-04-I/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:16:43+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_835/Half_Wheel_Pose_STA-04-I/metadata.json": {
+      "size": 758,
+      "mtime": 1781007139.455103,
+      "sha256": "c2b9146d532b42b576c59c461b845156f12dc99652b597347aea3aba7399dded",
+      "drive_file_id": "1FcaXtY6fWZbRDEarx8oabZF3qwLTK5Xd",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_835/Half_Wheel_Pose_STA-04-I/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:16:46+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_835/Half_Wheel_Pose_STA-04-I/video.webm": {
+      "size": 1404180,
+      "mtime": 1781007126.337299,
+      "sha256": "5f24691355ac4be692b43172249c363a0e38b151c16601d6c1f72b7b8b65ccf0",
+      "drive_file_id": "1toVzJhj5uM4oXYb7npcr8K0UEP1yh5MM",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_835/Half_Wheel_Pose_STA-04-I/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:16:52+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_835/metadata.json": {
+      "size": 1296,
+      "mtime": 1781007139.795268,
+      "sha256": "9461d549b2babd75963f2abc5a3a277859426aef58b2f98471fee1b26f50eacc",
+      "drive_file_id": "17n5YdvslJrbeKQ5XYQicoywlBkqkNRWH",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_835/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T12:16:56+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/PREETHI_798/Cobra_Pose_PR-02/landmarks.json": {
+      "size": 621230,
+      "mtime": 1781012064.084886,
+      "sha256": "936018c647425653c2d38666f8d865b73c698e7e55db56f622b736b485a88876",
+      "drive_file_id": "1Imj3JJqyL2nHEes__bKo2JQLgSfkioV_",
+      "rel_path": "2026-06-09_session/A_VideoOnly/PREETHI_798/Cobra_Pose_PR-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T13:34:34+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/PREETHI_798/Cobra_Pose_PR-02/metadata.json": {
+      "size": 735,
+      "mtime": 1781012064.109986,
+      "sha256": "d7e9fd21455c5a4098c72cce4e02c50cbf5f92c9389ff054c3944c0b9ff2f141",
+      "drive_file_id": "1P4uxiN5lnN5DjhsAbmmoEVOeSjXRnccD",
+      "rel_path": "2026-06-09_session/A_VideoOnly/PREETHI_798/Cobra_Pose_PR-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T13:34:38+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/PREETHI_798/Cobra_Pose_PR-02/video.webm": {
+      "size": 1759318,
+      "mtime": 1781012048.234837,
+      "sha256": "62722cb321362ee5e28327759f27218cc3cfe10b35b3c68ab9b2281da2efc63e",
+      "drive_file_id": "1zp9hgP6zzmqzYXex33Uh_YXK9VoEvr7z",
+      "rel_path": "2026-06-09_session/A_VideoOnly/PREETHI_798/Cobra_Pose_PR-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T13:34:45+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/PREETHI_798/metadata.json": {
+      "size": 1230,
+      "mtime": 1781012064.136952,
+      "sha256": "2ebf994978e2f7853a04948cecc7b01cee5b2a57cfe2bb27ccb0134580b5a0bd",
+      "drive_file_id": "17-QD8y7x9JzAH7TjnS02Adk7vJA4rePC",
+      "rel_path": "2026-06-09_session/A_VideoOnly/PREETHI_798/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T13:34:48+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/ANJANA_952/Half_Wheel_Pose_STA-04-I/landmarks.json": {
+      "size": 879678,
+      "mtime": 1781012318.418559,
+      "sha256": "7b2b593240e80557e8b584110daa82d10502bbc087081a52abe322af5609edd9",
+      "drive_file_id": "1tG3zwEDLihS_B9dnCKDG1cf6BHaXZPYL",
+      "rel_path": "2026-06-09_session/A_VideoOnly/ANJANA_952/Half_Wheel_Pose_STA-04-I/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T13:40:08+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/ANJANA_952/Half_Wheel_Pose_STA-04-I/metadata.json": {
+      "size": 761,
+      "mtime": 1781012318.451956,
+      "sha256": "3fae10f8e17f4dd96dedcfd648f810a4adffc7e2e79f7313cca474710c6e46bf",
+      "drive_file_id": "19Zq-STJeJHPld4Kdb85BuCeJlg4s1gFV",
+      "rel_path": "2026-06-09_session/A_VideoOnly/ANJANA_952/Half_Wheel_Pose_STA-04-I/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T13:40:11+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/ANJANA_952/Half_Wheel_Pose_STA-04-I/video.webm": {
+      "size": 3075470,
+      "mtime": 1781012302.590289,
+      "sha256": "ac148c7ef4ee24d149c09ae349c8a2b2526ddd381a468f140d1d4cd7baae7e43",
+      "drive_file_id": "1OJDUnbYbPtDuellF5T11X_EnPMbQz_S1",
+      "rel_path": "2026-06-09_session/A_VideoOnly/ANJANA_952/Half_Wheel_Pose_STA-04-I/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T13:40:20+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/ANJANA_952/metadata.json": {
+      "size": 1236,
+      "mtime": 1781012318.474045,
+      "sha256": "cbd510b22aa2b67c8025ce162a33be05c86a7bb1b17101006893128ecbabb3fc",
+      "drive_file_id": "10s7wQWfgy62V8zx9YjhZGJkmYjZeg66b",
+      "rel_path": "2026-06-09_session/A_VideoOnly/ANJANA_952/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T13:40:24+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/DEVLENA_624/metadata.json": {
+      "size": 1234,
+      "mtime": 1781014571.509527,
+      "sha256": "bc3e29288ce1ba2075d017a910b9dbbc06e3632bfd3caf13712667276bb62d7d",
+      "drive_file_id": "1Viom_0RKQ3zCq4R2vCjCK_kNXkaNX2r2",
+      "rel_path": "2026-06-09_session/A_VideoOnly/DEVLENA_624/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T14:17:44+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/DEVLENA_624/Mountain_Pose_STA-01/landmarks.json": {
+      "size": 335717,
+      "mtime": 1781014571.458585,
+      "sha256": "e5090a95d2cddb1f29a82f5838246f2bf1829550df9c9490d63c9a7f176829e3",
+      "drive_file_id": "1nUcX1UGPqqRfwH_CuUFpVmSltODWNnz3",
+      "rel_path": "2026-06-09_session/A_VideoOnly/DEVLENA_624/Mountain_Pose_STA-01/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T14:17:50+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/DEVLENA_624/Mountain_Pose_STA-01/metadata.json": {
+      "size": 739,
+      "mtime": 1781014571.488058,
+      "sha256": "bd8eee9f48c294d0e221a139f27c3848acb84649656ec150dc9401ce2550f2f8",
+      "drive_file_id": "1mpjMTRTLrOZCagXRVJzeG8jCHWMWyphH",
+      "rel_path": "2026-06-09_session/A_VideoOnly/DEVLENA_624/Mountain_Pose_STA-01/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T14:17:56+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/DEVLENA_624/Mountain_Pose_STA-01/video.webm": {
+      "size": 1080037,
+      "mtime": 1781014544.962882,
+      "sha256": "134d3c602318a9c35edbb6829f80b2001fe2a91737e95c9e1900852f6e50005a",
+      "drive_file_id": "1CXFrF7wp74o_N3Pej-9Ddf7cHhr5Ncx1",
+      "rel_path": "2026-06-09_session/A_VideoOnly/DEVLENA_624/Mountain_Pose_STA-01/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T14:18:02+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_723/Corpse_Pose_SU-02/landmarks.json": {
+      "size": 639927,
+      "mtime": 1781014487.094716,
+      "sha256": "c4f3f92ee6763e36159a089d2d7a89a634297d6c85cbadb035d64462255ea62b",
+      "drive_file_id": "1v-_xuV1_MmXLAwYufG9b3cZbh_Xy06u3",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_723/Corpse_Pose_SU-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T14:18:09+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_723/Corpse_Pose_SU-02/metadata.json": {
+      "size": 735,
+      "mtime": 1781014487.123001,
+      "sha256": "d0086d29bf3f5a5d70f3c1167a2f8d1e2e5200fe17355524fede1aca54ed537a",
+      "drive_file_id": "1pCScpV7dwBuiHFOeq6b1XzVxzGzNySHZ",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_723/Corpse_Pose_SU-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T14:18:16+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_723/Corpse_Pose_SU-02/video.webm": {
+      "size": 2135461,
+      "mtime": 1781014479.814716,
+      "sha256": "1795b0ddf3a161f9d5e19c8a7f6b890adf71a4cb1c27cfba8a626b47eccb9748",
+      "drive_file_id": "1xXFox0XX7QZrvDRiVJ_tY2rpgABAipQT",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_723/Corpse_Pose_SU-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T14:18:23+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/TEST_723/metadata.json": {
+      "size": 1224,
+      "mtime": 1781014487.154438,
+      "sha256": "259000f384d339e56d2c5473c5aafc91ac41dc03ac5a81cb310a92a457b22078",
+      "drive_file_id": "1qe7jfNH20CGurv-dFR1GTlX6sfQ-KYXE",
+      "rel_path": "2026-06-09_session/A_VideoOnly/TEST_723/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T14:18:26+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/HARI_519/Cobra_Pose_PR-02/landmarks.json": {
+      "size": 275723,
+      "mtime": 1781015007.504931,
+      "sha256": "08847fb748a1883b8346c7f65db4b4b1677a189cc1a0b4e644ec2f51d0901335",
+      "drive_file_id": "1vwQgAzzQAwdrjL__IAy7n6BvYrptlcBX",
+      "rel_path": "2026-06-09_session/A_VideoOnly/HARI_519/Cobra_Pose_PR-02/landmarks.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T14:23:38+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/HARI_519/Cobra_Pose_PR-02/metadata.json": {
+      "size": 734,
+      "mtime": 1781015007.532245,
+      "sha256": "1f6242d42b93ea1607b8b1797768fa36ad09383f58236532b27a63200c914faa",
+      "drive_file_id": "1RfeLPEWe-kCACHVr5zK12KLHa1zqr5-O",
+      "rel_path": "2026-06-09_session/A_VideoOnly/HARI_519/Cobra_Pose_PR-02/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T14:23:42+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/HARI_519/Cobra_Pose_PR-02/video.webm": {
+      "size": 835992,
+      "mtime": 1781015002.157919,
+      "sha256": "eb3432eacffc7df67ffe12ee0b94e5abe64ab07fb206dd0b4829233c1d503b9b",
+      "drive_file_id": "1HlELJbhxXlicWWHj2GCdfSAMX_eln3CE",
+      "rel_path": "2026-06-09_session/A_VideoOnly/HARI_519/Cobra_Pose_PR-02/video.webm",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T14:23:47+00:00"
+    },
+    "D:\\YogaDataset|2026-06-09_session/A_VideoOnly/HARI_519/metadata.json": {
+      "size": 1224,
+      "mtime": 1781015007.554168,
+      "sha256": "60a19ea6c56f36f2d68010341acd3c72049ea99df4fd709b5f945e391abe174a",
+      "drive_file_id": "1pANbeO4452OgMpmmkZeQpGi2iBAZkYbs",
+      "rel_path": "2026-06-09_session/A_VideoOnly/HARI_519/metadata.json",
+      "root": "D:\\YogaDataset",
+      "synced_at": "2026-06-09T14:23:50+00:00"
+    }
+  },
+  "roots": {
+    "D:\\YogaDataset": {
+      "last_sync_at": "2026-06-15T07:26:24+00:00",
+      "uploaded": 0,
+      "skipped": 4,
+      "failed": 0
+    }
+  },
+  "recent_errors": [
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Crocodile_Pose_PR-01/landmarks.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:53:29+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Crocodile_Pose_PR-01/metadata.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:53:32+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Crocodile_Pose_PR-01/video.webm",
+      "error": "<HttpError 403 when requesting None returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:53:33+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Half_Wheel_Pose_STA-04-I/landmarks.json",
+      "error": "<HttpError 403 when requesting None returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:53:35+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Half_Wheel_Pose_STA-04-I/metadata.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:53:37+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Half_Wheel_Pose_STA-04-I/video.webm",
+      "error": "<HttpError 403 when requesting None returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:53:38+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/metadata.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:53:41+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/MURUGAN_504/metadata.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:53:44+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/MURUGAN_504/Twisted_Pose_SIA-02/landmarks.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:53:48+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/MURUGAN_504/Twisted_Pose_SIA-02/metadata.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:53:52+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/MURUGAN_504/Twisted_Pose_SIA-02/video.webm",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:53:55+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Crocodile_Pose_PR-01/landmarks.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&supportsAllDrives=true&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:54:47+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Crocodile_Pose_PR-01/metadata.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&supportsAllDrives=true&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:54:50+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Crocodile_Pose_PR-01/video.webm",
+      "error": "<HttpError 403 when requesting None returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:54:51+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Half_Wheel_Pose_STA-04-I/landmarks.json",
+      "error": "<HttpError 403 when requesting None returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:54:53+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Half_Wheel_Pose_STA-04-I/metadata.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&supportsAllDrives=true&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:54:59+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/Half_Wheel_Pose_STA-04-I/video.webm",
+      "error": "<HttpError 403 when requesting None returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:55:00+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/DEVIKA_284/metadata.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&supportsAllDrives=true&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:55:03+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/MURUGAN_504/metadata.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&supportsAllDrives=true&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:55:08+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/MURUGAN_504/Twisted_Pose_SIA-02/landmarks.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&supportsAllDrives=true&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:56:23+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/MURUGAN_504/Twisted_Pose_SIA-02/metadata.json",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&supportsAllDrives=true&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:56:26+00:00"
+    },
+    {
+      "path": "2026-06-01_session/A_VideoOnly/MURUGAN_504/Twisted_Pose_SIA-02/video.webm",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id&supportsAllDrives=true&alt=json&uploadType=resumable returned \"Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.\". Details: \"[{'message': 'Service Accounts do not have storage quota. Leverage shared drives (https://developers.google.com/workspace/drive/api/guides/about-shareddrives), or use OAuth delegation (http://support.google.com/a/answer/7281227) instead.', 'domain': 'usageLimits', 'reason': 'storageQuotaExceeded'}]\">",
+      "at": "2026-06-01T08:56:29+00:00"
+    }
+  ],
+  "last_sync_completed": "2026-06-15T07:26:24+00:00",
+  "last_sync_success": "2026-06-15T07:26:24+00:00"
+}
