@@ -118,7 +118,7 @@ function SequencerPage() {
   const recordedCount = POSES.filter((p) =>
     isPoseRecorded(p.name)
   ).length;
-  const categories = ["All", "Standing", "Sitting", "Prone", "Supine"];
+  const categories = ["All", "Standing", "Sitting", "Supine"];
   const visiblePoses =
     categoryFilter === "All"
       ? POSES
@@ -821,7 +821,7 @@ function SequencerPage() {
                       opacity: 0.85,
                     }}
                   >
-                    Pose {currentPoseIndex + 1} of 13
+                    Pose {currentPoseIndex + 1} of {POSES.length}
                   </p>
                 ) : null}
 

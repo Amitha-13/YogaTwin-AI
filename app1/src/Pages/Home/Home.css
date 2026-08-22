@@ -24,6 +24,7 @@
   );
 }
 
+/* Main homepage layout */
 .research-hero__content {
   position: relative;
   z-index: 1;
@@ -31,12 +32,22 @@
   width: 100%;
   min-height: 100%;
   display: grid;
-  grid-template-rows: auto auto auto auto minmax(190px, 1fr) auto auto;
+
+  /* 6 sections:
+     1. Header/title
+     2. Divider
+     3. Funding
+     4. Investigator
+     5. YogaTwin AI
+     6. Navigation cards
+  */
+  grid-template-rows: auto auto auto auto minmax(190px, 1fr) auto;
+
   text-align: center;
   animation: rise 0.75s ease both;
 }
 
-/* Header/title area: dedicated columns for both logos */
+/* Header/title area with dedicated columns for both logos */
 .research-hero__heading-row {
   display: grid;
   grid-template-columns: 150px minmax(0, 1fr) 180px;
@@ -92,7 +103,7 @@
   text-align: center;
 }
 
-/* Allow the title to wrap naturally inside its dedicated middle column */
+/* Allow the project title to wrap naturally */
 .research-hero h1 span {
   white-space: normal;
 }
@@ -132,7 +143,7 @@
 }
 
 .investigator span + span::before {
-  content: '|';
+  content: "|";
   opacity: 0.55;
   margin: 0 11px;
 }
@@ -141,11 +152,14 @@
   font-weight: 700;
 }
 
+/* Main app branding */
 .research-hero__brand {
   align-self: center;
   margin: 0 auto;
   text-align: center;
   text-shadow: 0 5px 20px rgba(1, 17, 35, 0.38);
+
+  /* Moves YogaTwin AI upward */
   transform: translateY(-40px);
 }
 
@@ -167,6 +181,7 @@
   letter-spacing: 0.035em;
 }
 
+/* Data Collection / Yoga Practice cards */
 .homeModuleCards {
   display: flex;
   gap: 22px;
@@ -236,17 +251,7 @@
   font-size: 1.35rem;
 }
 
-/* .homeDisclaimer {
-  margin: 14px auto 0;
-  max-width: 780px;
-  padding: 13px 18px;
-  background: rgba(255, 255, 255, 0.15);
-  border: 1px solid rgba(217, 246, 235, 0.32);
-  border-radius: 11px;
-  font-size: clamp(0.9rem, 1.15vw, 1rem);
-  line-height: 1.55;
-} */
-
+/* Entrance animation */
 @keyframes rise {
   from {
     opacity: 0;
@@ -258,6 +263,7 @@
   }
 }
 
+/* Tablet */
 @media (max-width: 850px) {
   .research-hero__heading-row {
     grid-template-columns: 120px minmax(0, 1fr) 140px;
@@ -275,6 +281,7 @@
   }
 }
 
+/* Mobile */
 @media (max-width: 700px) {
   .research-hero {
     display: block;
@@ -383,6 +390,7 @@
   }
 }
 
+/* Small mobile */
 @media (max-width: 390px) {
   .anna-university-logo,
   .common-yoga-protocol-logo {
@@ -404,6 +412,7 @@
   }
 }
 
+/* Accessibility */
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

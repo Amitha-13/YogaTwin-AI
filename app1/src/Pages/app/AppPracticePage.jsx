@@ -17,7 +17,7 @@ import "./AppPages.css";
 
 const API_BASE = "http://127.0.0.1:3001";
 const MAX_RECORDING_SECONDS = 180;
-const categories = ["All", "Standing", "Sitting", "Prone", "Supine"];
+const categories = ["All", "Standing", "Sitting", "Supine"];
 
 const fmt = (s) =>
   `${String(Math.floor(s / 60)).padStart(2, "0")}:${String(s % 60).padStart(2, "0")}`;
