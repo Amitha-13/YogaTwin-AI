@@ -11,8 +11,6 @@ The project has two major user workflows:
 - **Data Collection** – Used to collect and organize yoga practice data from video and body-sensor inputs.
 - **Yoga Practice** – Used to perform yoga asanas while receiving pose-related information and corrective feedback.
 
-The application is designed so that the web interface, data-collection services, database, and machine-learning component can operate as separate but connected components.
-
 ---
 
 # 1. Project Objective
