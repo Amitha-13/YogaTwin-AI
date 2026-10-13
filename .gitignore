@@ -10,3 +10,13 @@ node_modules/
 .ipynb_checkpoints/
 
 backend/gdrive_service_account.json.git-broken-backup/
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Node dependencies
+**/node_modules/
+
+/correction-engine/node_modules/
+

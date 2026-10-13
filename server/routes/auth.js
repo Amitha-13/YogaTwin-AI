@@ -44,6 +44,15 @@ router.post("/signup", async (req, res) => {
     const token = signToken(user.id);
     return res.status(201).json({ token, user });
   } catch (error) {
+    // Log the real cause server-side for diagnosis. Never log request body,
+    // passwords, hashes, or secrets — only the error's own fields.
+    console.error("Signup error:", {
+      message: error?.message,
+      code: error?.code, // PostgreSQL error code (e.g. 23505, ECONNREFUSED)
+      detail: error?.detail,
+      stack: error?.stack,
+    });
+    // Keep the client response generic — do not expose DB internals.
     return res.status(500).json({ error: "Failed to sign up" });
   }
 });

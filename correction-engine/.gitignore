@@ -1,0 +1,32 @@
+node_modules/
+.venv/
+.env
+*.log
+sample_videos/
+DHARSHINI*/
+NAVYAA*/
+landmarks.json
+*.zip
+docx_text.txt
+test_sequential.cjs
+
+# Large dataset files (too big for GitHub)
+training_data.json
+training_data_old_manual.json
+
+# Temporary outputs
+outputs/
+train_output.txt
+
+# macOS
+.DS_Store
+
+# Old model dir
+tfjs_model_new/
+frame_log.jsonl
+
+# Frontend (YogaTwin React app)
+frontend/node_modules/
+frontend/dist/
+gdrive_credentials.json
+.env

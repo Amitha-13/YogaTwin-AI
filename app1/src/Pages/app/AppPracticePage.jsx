@@ -4,6 +4,7 @@ import { POSES } from "../../data/poses";
 import { useAuth } from "../../context/AuthContext";
 import { useSession } from "../../context/SessionContext";
 import { useAppCollectionPose } from "../../hooks/useAppCollectionPose";
+import { useCorrectionEngine, CORRECTION_STATUS } from "../../hooks/useCorrectionEngine";
 import AppImuStatusStrip from "../../Components/app/AppImuStatusStrip";
 import CONFIG from "../../config";
 import { countActiveOnline, normalizeImuPollPayload } from "../../utils/sensorStatus";
@@ -21,6 +22,17 @@ const categories = ["All", "Standing", "Sitting", "Supine"];
 
 const fmt = (s) =>
   `${String(Math.floor(s / 60)).padStart(2, "0")}:${String(s % 60).padStart(2, "0")}`;
+
+/** Maps a correction status to a human label and a CSS modifier class. */
+const CORRECTION_STATUS_META = {
+  idle: { label: "Detecting Pose", cls: "is-detecting" },
+  detecting: { label: "Detecting Pose", cls: "is-detecting" },
+  good_form: { label: "Good Form", cls: "is-good" },
+  adjust: { label: "Adjust Your Posture", cls: "is-adjust" },
+  not_detected: { label: "Pose Not Detected", cls: "is-nodetect" },
+  unavailable: { label: "Correction Unavailable", cls: "is-unavailable" },
+  error: { label: "Correction Offline", cls: "is-error" },
+};
 
 const AppPracticePage = () => {
   const navigate = useNavigate();
@@ -129,6 +141,29 @@ const AppPracticePage = () => {
     cameraReady &&
     recordPhase !== "done";
 
+  const correctionActive =
+    view === "practice" &&
+    Boolean(selectedPose) &&
+    cameraReady &&
+    recordPhase !== "done";
+
+  const {
+    pushLandmarks,
+    status: correctionStatus,
+    supported: correctionSupported,
+    engineOnline,
+    matchConfidence,
+    feedback: correctionFeedback,
+    corrections: engineCorrections,
+    stepText: correctionStepText,
+  } = useCorrectionEngine({
+    active: correctionActive,
+    appPoseName: selectedPose?.name || "",
+    currentStepIndex: 0,
+    age: metadata?.age,
+    userName: metadata?.name || currentUser?.username,
+  });
+
   const { mediapipeError } = useAppCollectionPose({
     videoRef,
     canvasRef,
@@ -137,6 +172,7 @@ const AppPracticePage = () => {
     setDetectedPose,
     setConfidence,
     setCorrections,
+    onRawLandmarks: pushLandmarks,
   });
 
   const attachStream = useCallback((stream) => {
@@ -545,11 +581,76 @@ const AppPracticePage = () => {
 
           {(recordPhase === "idle" || recordPhase === "recording") && (
             <div className="app-practice-side-panel">
-              <div className="small mb-1">Detected: {detectedPose}</div>
-              <div className="small mb-2">Confidence: {Math.round(confidence)}%</div>
-              {corrections.length > 0 ? (
-                <div className="small mb-2">{corrections[0]}</div>
-              ) : null}
+              {(() => {
+                const meta =
+                  CORRECTION_STATUS_META[correctionStatus] ||
+                  CORRECTION_STATUS_META.detecting;
+                // Prefer the real engine's match confidence; fall back to the
+                // local angle-based confidence only when the engine is offline.
+                const engineUsable =
+                  correctionSupported &&
+                  engineOnline &&
+                  correctionStatus !== CORRECTION_STATUS.ERROR;
+                const confPct =
+                  engineUsable && matchConfidence != null
+                    ? Math.round(matchConfidence * 100)
+                    : null;
+                // Which corrections to show: engine corrections when usable,
+                // otherwise the existing local angle corrections as a fallback.
+                const shownCorrections = engineUsable
+                  ? engineCorrections
+                  : corrections;
+                return (
+                  <>
+                    <div
+                      className={`app-correction-status ${meta.cls}`}
+                      role="status"
+                      aria-live="polite"
+                    >
+                      {meta.label}
+                    </div>
+
+                    {correctionStepText ? (
+                      <div className="app-correction-step small mb-2">
+                        {correctionStepText}
+                      </div>
+                    ) : null}
+
+                    <div className="small mb-1">
+                      Pose: {selectedPose?.name}
+                    </div>
+                    <div className="small mb-2">
+                      {confPct != null ? (
+                        <>Match confidence: {confPct}%</>
+                      ) : engineUsable ? (
+                        <>Match confidence: —</>
+                      ) : correctionSupported ? (
+                        <>Live correction unavailable (engine offline)</>
+                      ) : (
+                        <>Live AI correction not available for this pose</>
+                      )}
+                    </div>
+
+                    {engineUsable &&
+                    correctionStatus === CORRECTION_STATUS.GOOD_FORM ? (
+                      <div className="app-correction-feedback good small mb-2">
+                        {correctionFeedback || "Looking good — hold the position!"}
+                      </div>
+                    ) : shownCorrections && shownCorrections.length > 0 ? (
+                      <ul className="app-correction-list small mb-2">
+                        {shownCorrections.slice(0, 3).map((c, i) => (
+                          <li key={i}>{c}</li>
+                        ))}
+                      </ul>
+                    ) : engineUsable && correctionFeedback ? (
+                      <div className="app-correction-feedback small mb-2">
+                        {correctionFeedback}
+                      </div>
+                    ) : null}
+                  </>
+                );
+              })()}
+
               {recordPhase === "idle" ? (
                 <>
                   <div className="app-practice-timer-preview">{fmt(MAX_RECORDING_SECONDS)}</div>
