@@ -170,7 +170,7 @@ cd correction-engine && node server.js
 cd app1 && npm run dev
 
 # Terminal 4 — data-collection backend (optional)
-cd backend && python server.py
+cd backend && python data_collection_server.py
 ```
 
 Then open **http://localhost:5173**, sign up at `/app/signup`, and start a
